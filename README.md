@@ -59,6 +59,7 @@ Move the snake with **WASD** or **Arrow keys**, eat the red food to grow, and tr
 * **Down**: `S` or ⬇️
 * **Left**: `A` or ⬅️
 * **Right**: `D` or ➡️
+
 ⚠️ You cannot instantly reverse direction (to prevent self-collision).
 
 ---
